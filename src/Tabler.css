@@ -236,10 +236,6 @@ img {
   border-style: none;
 }
 
-svg:not(:root) {
-  overflow: hidden;
-}
-
 table {
   border-collapse: collapse;
 }
