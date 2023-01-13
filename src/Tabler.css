@@ -11645,13 +11645,6 @@ button.bg-cyan:focus {
   background-color: #fff !important;
 }
 
-a.bg-white:hover,
-a.bg-white:focus,
-button.bg-white:hover,
-button.bg-white:focus {
-  background-color: #e6e5e5 !important;
-}
-
 .text-white {
   color: #fff !important;
 }
