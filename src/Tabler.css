@@ -6173,99 +6173,99 @@ button.close {
 }
 
 .bg-primary {
-  background-color: #467fcf !important;
+  background-color: #467fcf;
 }
 
 a.bg-primary:hover,
 a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #2f66b3 !important;
+  background-color: #2f66b3;
 }
 
 .bg-secondary {
-  background-color: #868e96 !important;
+  background-color: #868e96;
 }
 
 a.bg-secondary:hover,
 a.bg-secondary:focus,
 button.bg-secondary:hover,
 button.bg-secondary:focus {
-  background-color: #6c757d !important;
+  background-color: #6c757d;
 }
 
 .bg-success {
-  background-color: #5eba00 !important;
+  background-color: #5eba00;
 }
 
 a.bg-success:hover,
 a.bg-success:focus,
 button.bg-success:hover,
 button.bg-success:focus {
-  background-color: #448700 !important;
+  background-color: #448700;
 }
 
 .bg-info {
-  background-color: #45aaf2 !important;
+  background-color: #45aaf2;
 }
 
 a.bg-info:hover,
 a.bg-info:focus,
 button.bg-info:hover,
 button.bg-info:focus {
-  background-color: #1594ef !important;
+  background-color: #1594ef;
 }
 
 .bg-warning {
-  background-color: #f1c40f !important;
+  background-color: #f1c40f;
 }
 
 a.bg-warning:hover,
 a.bg-warning:focus,
 button.bg-warning:hover,
 button.bg-warning:focus {
-  background-color: #c29d0b !important;
+  background-color: #c29d0b;
 }
 
 .bg-danger {
-  background-color: #cd201f !important;
+  background-color: #cd201f;
 }
 
 a.bg-danger:hover,
 a.bg-danger:focus,
 button.bg-danger:hover,
 button.bg-danger:focus {
-  background-color: #a11918 !important;
+  background-color: #a11918;
 }
 
 .bg-light {
-  background-color: #f8f9fa !important;
+  background-color: #f8f9fa;
 }
 
 a.bg-light:hover,
 a.bg-light:focus,
 button.bg-light:hover,
 button.bg-light:focus {
-  background-color: #dae0e5 !important;
+  background-color: #dae0e5;
 }
 
 .bg-dark {
-  background-color: #343a40 !important;
+  background-color: #343a40;
 }
 
 a.bg-dark:hover,
 a.bg-dark:focus,
 button.bg-dark:hover,
 button.bg-dark:focus {
-  background-color: #1d2124 !important;
+  background-color: #1d2124;
 }
 
 .bg-white {
-  background-color: #fff !important;
+  background-color: #fff;
 }
 
 .bg-transparent {
-  background-color: transparent !important;
+  background-color: transparent;
 }
 
 .border {
