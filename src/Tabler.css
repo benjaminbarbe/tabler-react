@@ -6269,79 +6269,79 @@ button.bg-dark:focus {
 }
 
 .border {
-  border: 1px solid rgba(0, 40, 100, 0.12) !important;
+  border: 1px solid rgba(0, 40, 100, 0.12);
 }
 
 .border-top {
-  border-top: 1px solid rgba(0, 40, 100, 0.12) !important;
+  border-top: 1px solid rgba(0, 40, 100, 0.12);
 }
 
 .border-right {
-  border-right: 1px solid rgba(0, 40, 100, 0.12) !important;
+  border-right: 1px solid rgba(0, 40, 100, 0.12);
 }
 
 .border-bottom {
-  border-bottom: 1px solid rgba(0, 40, 100, 0.12) !important;
+  border-bottom: 1px solid rgba(0, 40, 100, 0.12);
 }
 
 .border-left {
-  border-left: 1px solid rgba(0, 40, 100, 0.12) !important;
+  border-left: 1px solid rgba(0, 40, 100, 0.12);
 }
 
 .border-0 {
-  border: 0 !important;
+  border: 0;
 }
 
 .border-top-0 {
-  border-top: 0 !important;
+  border-top: 0;
 }
 
 .border-right-0 {
-  border-right: 0 !important;
+  border-right: 0;
 }
 
 .border-bottom-0 {
-  border-bottom: 0 !important;
+  border-bottom: 0;
 }
 
 .border-left-0 {
-  border-left: 0 !important;
+  border-left: 0;
 }
 
 .border-primary {
-  border-color: #467fcf !important;
+  border-color: #467fcf;
 }
 
 .border-secondary {
-  border-color: #868e96 !important;
+  border-color: #868e96;
 }
 
 .border-success {
-  border-color: #5eba00 !important;
+  border-color: #5eba00;
 }
 
 .border-info {
-  border-color: #45aaf2 !important;
+  border-color: #45aaf2;
 }
 
 .border-warning {
-  border-color: #f1c40f !important;
+  border-color: #f1c40f;
 }
 
 .border-danger {
-  border-color: #cd201f !important;
+  border-color: #cd201f;
 }
 
 .border-light {
-  border-color: #f8f9fa !important;
+  border-color: #f8f9fa;
 }
 
 .border-dark {
-  border-color: #343a40 !important;
+  border-color: #343a40;
 }
 
 .border-white {
-  border-color: #fff !important;
+  border-color: #fff;
 }
 
 .rounded {
